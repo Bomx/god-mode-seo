@@ -1,0 +1,16 @@
+{
+  "name": "god-mode-seo",
+  "description": "God-Mode SEO by Distribb: 21 Claude SEO skills that run on the Distribb SEO connector.",
+  "owner": {
+    "name": "Distribb",
+    "url": "https://distribb.io"
+  },
+  "plugins": [
+    {
+      "name": "god-mode-seo",
+      "source": "./",
+      "description": "21 SEO skills in 5 departments, all reading the same live data through the Distribb SEO connector: Search Console, keyword volumes, backlinks and AI citations.",
+      "version": "1.0.0"
+    }
+  ]
+}

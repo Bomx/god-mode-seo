@@ -1,0 +1,17 @@
+{
+  "name": "god-mode-seo",
+  "version": "1.0.0",
+  "description": "21 SEO skills in 5 departments, all reading the same live data through the Distribb SEO connector: Search Console, keyword volumes, backlinks and AI citations.",
+  "author": {
+    "name": "Distribb",
+    "url": "https://distribb.io"
+  },
+  "homepage": "https://distribb.io",
+  "keywords": [
+    "seo",
+    "search-console",
+    "claude-skills",
+    "distribb"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
